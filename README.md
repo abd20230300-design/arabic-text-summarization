@@ -12,9 +12,6 @@ Takes an Arabic news article and generates a short summary. You can also paste i
 |------|-------------|
 | `app.py` | Gradio web app — run this to use the model |
 | `NLP_phase2_proj.ipynb` | Full training notebook (preprocessing, model, evaluation) |
-| `arabic_seq2seq_attention_model.keras` | Trained model weights |
-| `arabic_tokenizer.pkl` | Fitted tokenizer |
-| `preprocessed_data.csv` | Cleaned dataset used for training |
 | `NLP_Final_Report.docx` | Written report |
 | `NLP_Final_Presentation.pptx` | Presentation slides |
 | `Final Project_Text Summarization.pdf` | Project brief |
